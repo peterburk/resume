@@ -5,6 +5,6 @@ Résumé
 
 Please download my curriculum vitae as a PDF document from the following link:
 
-https://raw.githubusercontent.com/peterburk/iphoneGeotag/master/Peter%20Burkimsher%20Resume.pdf
+https://raw.githubusercontent.com/peterburk/resume/master/Peter%20Burkimsher%20Resume.pdf
 
 
