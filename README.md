@@ -1,5 +1,4 @@
-# resume
-Résumé
+# Résumé
 
 <img class="aligncenter" alt="CV" src="https://raw.githubusercontent.com/peterburk/resume/master/CV.png" width="128">
 
